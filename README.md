@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pankaj Yadav  
-### 🚀 Full-Stack & GenAI Engineer | .NET • Angular • AI/ML  
+### 🚀 Full-Stack Engineer | .NET • Angular • AI/ML  
 
 ---
 
@@ -56,15 +56,6 @@ An **enterprise-grade GenAI-powered assistant** for intelligent document analysi
 A **semantic product search and Q&A system** using RAG techniques.  
 - **Tech Stack:** Python, LangChain, Astra DB, Beautiful Soup, RAG  
 - **Features:** Web scraping, ELT pipelines, vector embeddings, semantic retrieval, interactive frontend.  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=247pankaj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=247pankaj&layout=compact&theme=tokyonight" alt="Top languages" height="180px"/>
-</p>
 
 ---
 
